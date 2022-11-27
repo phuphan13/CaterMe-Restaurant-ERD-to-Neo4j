@@ -1,0 +1,25 @@
+ItemID,Name,Price,Ingredient,Status,CatID
+IT01,Pork Spring Rolls (2pcs),5,"Rolll filled with vegetables, pork mince wrapped in a thin, crispy exterior",0,01
+IT02,Rice Paper Rolls - Pork (2pcs),7,"Pork meat or chop wrapped in rice paper with salad, vermicelli, and hoisin peanut sauce",0,01
+IT03,Rice Paper Rools - Prawn (2pcs),7.5,"Prawn wrapped in rice paper with salad, vermicelli, and hoisin peanut sauce",0,01
+IT04,Rice Paper Rools - Tofu (2pcs),6,"Tofu wrapped in rice paper with salad, vermicelli, and hoisin peanut sauce",0,01
+IT05,Banh Mi Crispy Roasted Pork,12,"Banh Mi with cripy pork, garlic, fish sauce and black peppe",0,02
+IT06,Banh Mi Grilled Pork,10,"Banh Mi with grilled pork, garlic, fish sauce and black peppe",0,02
+IT07,Banh Mi Fried Eggs,10,"Banh Mi with fried eggs, garlic, fish sauce and black peppe",0,02
+IT08,Banh Mi Grilled Chicken,10,"Banh Mi with grilled chicken, garlic, fish sauce and black pepper",0,02
+IT09,Pho Sliced Beef,16,"ietnamese Pho with sliced beef, and herb",0,03
+IT10,Pho Sliced Beef and MeatBalls,16.5,"Vietnamese Pho with sliced beef, meatballs, and herb",0,03
+IT11,Vietnamese Spicy Beef Noodle Soup,17,"Soup is paired with tender slices of beef and pork, topped with herbs",0,03
+IT12,Pork and Crab Noodle Soup,17,"Soup with tomatoes, shrimp paste, fish sauce, meat broth, topped with tofu, pork/crab",0,03
+IT13,Vermicelli Cripy Roasted Pork,16,Vermicelli Cripy Roasted Pork and veggies,0,04
+IT14,Vermicelli Lemongrass Tofu,14,Vermicelli Lemongrass Tofu and veggies,0,04
+IT15,"Vermicelli Fried Tofu, Pork and Shrimp Paste",17,"Vermicelli Fried Tofu, Pork and Shrimp Paste",0,04
+IT16,Rice with Grilled Prok Chops,16.5,Rice loaded with grilled pork chops and veggies,0,05
+IT17,Rice with Grilled Chicken,16,Rice loaded with grilled chicken meat and veggies,0,05
+IT18,Rice Combo Special,20,"Rice loaded with grilled pork meat, chops, eggs and veggies",0,05
+IT19,Vietnamese Iced Coffee,6,Traditional coffee drink recipe in Viet Nam and easy cafe sua da recipe,0,06
+IT20,Iced Tea - Watermelon,5,Fresh watermelon juice mixed with cold tea to make this,0,06
+IT21,Hot Chocolate,4.5,"Hot cocoa or drinking chocolate, is heated chocolate milk",0,06
+IT22,Flat White,4.5,Coffee drink consisting of espresso with microfoam,0,06
+IT23,Mix Fruit Iced Dessert,7," Ice block molds with berries, bananas and kiwi",0,07
+IT24,Fruit Cocktail,7,"Fresh fruits, strawberry juice, a homemade rose-water Ashta",0,07

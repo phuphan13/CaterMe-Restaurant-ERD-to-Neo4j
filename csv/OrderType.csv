@@ -1,0 +1,7 @@
+OrderTypeID,Name
+01,In-house Order
+02,Phone
+03,Website
+04,Uber Eats
+05,DoorDash
+06,MenuLog

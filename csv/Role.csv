@@ -1,0 +1,4 @@
+RoleID,Description,BaseRate
+01,Admin,2
+02,Supervisor,1.25
+03,Front Staff,1
